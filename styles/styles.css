@@ -47,8 +47,14 @@ li a{
     overflow: hidden;
 }
 img{
-    width: 30%;
+    width: 50%;
 }
 li{
     display: inline;
+}
+.flexContenedor{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-around;
 }
