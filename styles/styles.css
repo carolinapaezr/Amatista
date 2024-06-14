@@ -79,4 +79,8 @@ li{
 .colorNavbar{
     background-color: #FFE6E6;
 }
-
+.padding{
+    padding-left: 20px;
+    padding-top: 10px;
+    padding-right: 20px;
+}
